@@ -1,0 +1,183 @@
+Tue, 21 Jan 2020 01:46:58 +0200
+... Eratosthenes sieve done
+bff8856b5c7eaf9bf2198232da30a0ef  eratosthenes.8.bin
+Tue, 21 Jan 2020 01:47:15 +0200
+p.size 100000000
+9999999999999999 can be divided by 3
+9999999999999997 can be divided by 13
+9999999999999995 can be divided by 5
+9999999999999993 can be divided by 3
+9999999999999991 can be divided by 643
+9999999999999989 can be divided by 7
+9999999999999987 can be divided by 3
+9999999999999985 can be divided by 5
+9999999999999983 can be divided by 2617
+9999999999999981 can be divided by 3
+9999999999999979 can be divided by 269
+9999999999999977 can be divided by 11
+9999999999999975 can be divided by 3
+9999999999999973 can be divided by 23
+9999999999999971 can be divided by 13
+9999999999999969 can be divided by 3
+9999999999999967 can be divided by 37699427
+9999999999999965 can be divided by 5
+9999999999999963 can be divided by 3
+9999999999999961 can be divided by 7
+9999999999999959 can be divided by 31
+9999999999999957 can be divided by 3
+9999999999999955 can be divided by 5
+9999999999999953 can be divided by 37
+9999999999999951 can be divided by 3
+9999999999999949 can be divided by 41
+9999999999999947 can be divided by 7
+9999999999999945 can be divided by 3
+9999999999999943 can be divided by 11977297
+9999999999999941 can be divided by 36691909
+9999999999999939 can be divided by 3
+9999999999999937 is a biggest 16 digit prime
+999999999999999 can be divided by 3
+999999999999997 can be divided by 599
+999999999999995 can be divided by 5
+999999999999993 can be divided by 3
+999999999999991 can be divided by 653
+999999999999989 is a biggest 15 digit prime
+99999999999999 can be divided by 3
+99999999999997 can be divided by 839
+99999999999995 can be divided by 5
+99999999999993 can be divided by 3
+99999999999991 can be divided by 7
+99999999999989 can be divided by 2460707
+99999999999987 can be divided by 3
+99999999999985 can be divided by 5
+99999999999983 can be divided by 59
+99999999999981 can be divided by 3
+99999999999979 can be divided by 151
+99999999999977 can be divided by 7
+99999999999975 can be divided by 3
+99999999999973 is a biggest 14 digit prime
+9999999999999 can be divided by 3
+9999999999997 can be divided by 7
+9999999999995 can be divided by 5
+9999999999993 can be divided by 3
+9999999999991 can be divided by 31
+9999999999989 can be divided by 17
+9999999999987 can be divided by 3
+9999999999985 can be divided by 5
+9999999999983 can be divided by 7
+9999999999981 can be divided by 3
+9999999999979 can be divided by 11
+9999999999977 can be divided by 13
+9999999999975 can be divided by 3
+9999999999973 can be divided by 113
+9999999999971 is a biggest 13 digit prime
+999999999999 can be divided by 3
+999999999997 can be divided by 5507
+999999999995 can be divided by 5
+999999999993 can be divided by 3
+999999999991 can be divided by 757
+999999999989 is a biggest 12 digit prime
+99999999999 can be divided by 3
+99999999997 can be divided by 17
+99999999995 can be divided by 5
+99999999993 can be divided by 3
+99999999991 can be divided by 83
+99999999989 can be divided by 16823
+99999999987 can be divided by 3
+99999999985 can be divided by 5
+99999999983 can be divided by 13
+99999999981 can be divided by 3
+99999999979 can be divided by 11
+99999999977 is a biggest 11 digit prime
+9999999999 can be divided by 3
+9999999997 can be divided by 13
+9999999995 can be divided by 5
+9999999993 can be divided by 3
+9999999991 can be divided by 19
+9999999989 can be divided by 7
+9999999987 can be divided by 3
+9999999985 can be divided by 5
+9999999983 can be divided by 3137
+9999999981 can be divided by 3
+9999999979 can be divided by 47
+9999999977 can be divided by 11
+9999999975 can be divided by 3
+9999999973 can be divided by 73
+9999999971 can be divided by 13
+9999999969 can be divided by 3
+9999999967 is a biggest 10 digit prime
+999999999 can be divided by 3
+999999997 can be divided by 71
+999999995 can be divided by 5
+999999993 can be divided by 3
+999999991 can be divided by 67
+999999989 can be divided by 4327
+999999987 can be divided by 3
+999999985 can be divided by 5
+999999983 can be divided by 337
+999999981 can be divided by 3
+999999979 can be divided by 11
+999999977 can be divided by 2971
+999999975 can be divided by 3
+999999973 can be divided by 7
+999999971 can be divided by 193
+999999969 can be divided by 3
+999999967 can be divided by 3257
+999999965 can be divided by 5
+999999963 can be divided by 3
+999999961 can be divided by 3673
+999999959 can be divided by 7
+999999957 can be divided by 3
+999999955 can be divided by 5
+999999953 can be divided by 29
+999999951 can be divided by 3
+999999949 can be divided by 13
+999999947 can be divided by 163
+999999945 can be divided by 3
+999999943 can be divided by 5623
+999999941 can be divided by 113
+999999939 can be divided by 3
+999999937 is a biggest 9 digit prime
+99999999 can be divided by 3
+99999997 can be divided by 1297
+99999995 can be divided by 5
+99999993 can be divided by 3
+99999991 can be divided by 7
+99999989 is a biggest 8 digit prime
+9999999 can be divided by 3
+9999997 can be divided by 7
+9999995 can be divided by 5
+9999993 can be divided by 3
+9999991 is a biggest 7 digit prime
+999999 can be divided by 3
+999997 can be divided by 757
+999995 can be divided by 5
+999993 can be divided by 3
+999991 can be divided by 17
+999989 can be divided by 19
+999987 can be divided by 3
+999985 can be divided by 5
+999983 is a biggest 6 digit prime
+99999 can be divided by 3
+99997 can be divided by 19
+99995 can be divided by 5
+99993 can be divided by 3
+99991 is a biggest 5 digit prime
+9999 can be divided by 3
+9997 can be divided by 13
+9995 can be divided by 5
+9993 can be divided by 3
+9991 can be divided by 97
+9989 can be divided by 7
+9987 can be divided by 3
+9985 can be divided by 5
+9983 can be divided by 67
+9981 can be divided by 3
+9979 can be divided by 17
+9977 can be divided by 11
+9975 can be divided by 3
+9973 is a biggest 4 digit prime
+999 can be divided by 3
+997 is a biggest 3 digit prime
+99 can be divided by 3
+97 is a biggest 2 digit prime
+Tue, 21 Jan 2020 01:47:32 +0200
